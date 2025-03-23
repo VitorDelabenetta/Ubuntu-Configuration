@@ -1,0 +1,48 @@
+[ERROR Sat 22 Mar 2025 03:39:52 PM -03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...on-lspconfig.nvim/lua/mason-lspconfig/lspconfig_hook.lua:56: module 'lspconfig.util' not found:
+	no field package.preload['lspconfig.util']
+cache_loader: module lspconfig.util not found
+cache_loader_lib: module lspconfig.util not found
+	no file './lspconfig/util.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/util.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/util.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/util/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/util.lua'
+	no file '/usr/share/lua/5.1/lspconfig/util/init.lua'
+	no file './lspconfig/util.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/util.so'
+	no file '/usr/lib/x86_64-linux-gnu/lua/5.1/lspconfig/util.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/x86_64-linux-gnu/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[ERROR Sat 22 Mar 2025 03:44:59 PM -03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...on-lspconfig.nvim/lua/mason-lspconfig/lspconfig_hook.lua:56: module 'lspconfig.util' not found:
+	no field package.preload['lspconfig.util']
+cache_loader: module lspconfig.util not found
+cache_loader_lib: module lspconfig.util not found
+	no file './lspconfig/util.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/util.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/util.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/util/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/util.lua'
+	no file '/usr/share/lua/5.1/lspconfig/util/init.lua'
+	no file './lspconfig/util.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/util.so'
+	no file '/usr/lib/x86_64-linux-gnu/lua/5.1/lspconfig/util.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/x86_64-linux-gnu/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[INFO  Sat 22 Mar 2025 03:52:08 PM -03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Sat 22 Mar 2025 03:52:10 PM -03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  Sat 22 Mar 2025 04:23:37 PM -03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=html-lsp) {}
+[ERROR Sat 22 Mar 2025 04:23:37 PM -03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=html-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sat 22 Mar 2025 04:24:18 PM -03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Sat 22 Mar 2025 04:24:18 PM -03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sat 22 Mar 2025 04:47:52 PM -03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=codespell) {}
+[ERROR Sat 22 Mar 2025 04:47:53 PM -03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=codespell) error=spawn: python3 failed with exit code 1 and signal 0. 
+[INFO  Sat 22 Mar 2025 04:49:26 PM -03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=html-lsp) {}
+[ERROR Sat 22 Mar 2025 04:49:26 PM -03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=html-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Sat 22 Mar 2025 04:49:51 PM -03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Sat 22 Mar 2025 04:49:51 PM -03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
