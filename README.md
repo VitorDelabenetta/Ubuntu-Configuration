@@ -1,8 +1,8 @@
 ## Configurações do Sistema
-![](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) <!-- Ubuntu -->
-![](https://img.shields.io/badge/Neovim-23483699?logo=neovim&logoColor=fff) <!-- Neovim -->
-![](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white) <!-- Lua -->
-![](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white) <!-- README -->
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) <!-- Ubuntu -->
+![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) <!-- Neovim -->
+![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) <!-- Lua -->
+![](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) <!-- README -->
 
 <br>
 
