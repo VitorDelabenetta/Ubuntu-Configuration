@@ -24,6 +24,5 @@ Estas configurações foram realizadas ao longo do tempo através do Gnome Tweak
 
 <img src="./preview/neovim_configuration.png" alt="neovim-interface" style="width: 100%"/>
 
-<i>Imagem das configurações do Neovim, realizada seguindo os tutoriais do Typecraft</i>
-
+<i>Imagem da interface do Neovim após configurações</i>
 <br>
