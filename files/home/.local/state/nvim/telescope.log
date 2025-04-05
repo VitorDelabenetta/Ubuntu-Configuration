@@ -565,3 +565,282 @@ stack traceback:
 	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
 	[C]: in function 'pcall'
 	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:24:19 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:24:19 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:24:19 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:24:20 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:24:20 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:24:20 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:24:20 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:24:24 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:24:24 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:24:24 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:24:24 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:24:24 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:24:24 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:24:33 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:24:33 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:25:20 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:25:21 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:25:21 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:25:21 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:25:21 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:25:21 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:25:23 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:25:23 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:25:23 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:25:23 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:25:23 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:25:24 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:25:25 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:25:25 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:25:27 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  Sat 05 Apr 2025 02:25:27 PM -03] /home/gabriel-delabenetta/.local/share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  ...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	...local/share/nvim/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <...share/nvim/lazy/telescope.nvim/lua/telescope/pickers.lua:454>

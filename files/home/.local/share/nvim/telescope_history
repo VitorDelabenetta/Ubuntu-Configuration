@@ -3,3 +3,9 @@ e
 exit
 q
 1
+lualine
+:q
+config
+cat
+lsp
+java

@@ -15,8 +15,18 @@ if not (vim.uv or vim.loop).fs_stat(lazypath) then
 end
 vim.opt.rtp:prepend(lazypath)
 
-local opts = {}
+-- Algumas opções para o Lazy
+local opts = {
+  change_detection = {
+    notify = false -- não notificar toda vez que alguma mudança é feita nas configurações
+  },
+  checker = { enabled = true, notify = false },
+  ui = {
+    border = "rounded",
+  }
+}
 
 -- Rotinas que serão importadas inicialmente
 require("command-options")
 require("lazy").setup("plugins", opts)
+require("config.options")
