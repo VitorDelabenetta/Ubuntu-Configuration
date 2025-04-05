@@ -1,4 +1,4 @@
-## Configurações do Sistema
+# Configurações do Sistema
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) <!-- Ubuntu -->
 ![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) <!-- Neovim -->
 ![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) <!-- Lua -->
@@ -12,7 +12,7 @@ O presente repositório foi criado para permitir um armazenamento diretamente no
 
 <br>
 
-Estas configurações foram realizadas ao longo do tempo através do Gnome Tweaks e do Extension Manager, bem como seguindo algumas ideias de Ricing através do Reddit. A configuração do Neovim foi realizada seguindo a série do <a href="https://www.youtube.com/playlist?list=PLsz00TDipIffreIaUNk64KxTIkQaGguqn">Typecraft no YouTube</a>, onde são apresentados os conceitos e ensinados os "por quês" de cada configuração.
+Estas configurações foram realizadas ao longo do tempo através do Gnome Tweaks e do Extension Manager, bem como seguindo algumas ideias de Ricing através do Reddit. A configuração do Neovim foi realizada seguindo a série do <a href="https://www.youtube.com/playlist?list=PLsz00TDipIffreIaUNk64KxTIkQaGguqn" target="_blank">Typecraft no YouTube</a>, onde são apresentados os conceitos e ensinados os "por quês" de cada configuração.
 
 <br>
 

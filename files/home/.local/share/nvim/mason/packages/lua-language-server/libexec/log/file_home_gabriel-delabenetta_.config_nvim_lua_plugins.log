@@ -1,10 +1,10 @@
-[17:09:25.932][info] [#0:/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:68]: Lua Lsp startup, root: 	/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec
-[17:09:25.932][info] [#0:/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:69]: ROOT:	/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec
-[17:09:25.932][info] [#0:/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:70]: LOGPATH:	/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/log
-[17:09:25.932][info] [#0:/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:71]: METAPATH:	/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta
-[17:09:25.933][info] [#0:/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:72]: VERSION:	3.13.9
-[17:09:25.991][info] [#0:script/proto/proto.lua:260]: Listen Mode: stdio
-[17:09:25.991][info] [#0:script/service/service.lua:145]: 
+[15:21:03.403][info] [#0:/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:68]: Lua Lsp startup, root: 	/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec
+[15:21:03.403][info] [#0:/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:69]: ROOT:	/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec
+[15:21:03.403][info] [#0:/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:70]: LOGPATH:	/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/log
+[15:21:03.403][info] [#0:/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:71]: METAPATH:	/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta
+[15:21:03.403][info] [#0:/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:72]: VERSION:	3.13.9
+[15:21:03.460][info] [#0:script/proto/proto.lua:260]: Listen Mode: stdio
+[15:21:03.460][info] [#0:script/service/service.lua:145]: 
 ========= Medical Examination Report =========
     --------------- Memory ---------------
         Total: 2.259 MB
@@ -26,7 +26,7 @@
         Holdon:   0
         Waiting:  0
 ==============================================
-[17:09:26.100][info] [#0:script/client.lua:657]: Client init	{
+[15:21:03.572][info] [#0:script/client.lua:657]: Client init	{
   capabilities = {
     textDocument = {
       callHierarchy = {
@@ -170,7 +170,7 @@
     version = "0.9.5"
   },
   initializationOptions = {},
-  processId = 21867,
+  processId = 9798,
   rootPath = "/home/gabriel-delabenetta/.config/nvim/lua/plugins",
   rootUri = "file:///home/gabriel-delabenetta/.config/nvim/lua/plugins",
   trace = "off",
@@ -179,98 +179,111 @@
       uri = "file:///home/gabriel-delabenetta/.config/nvim/lua/plugins"
     } }
 }
-[17:09:26.101][info] [#0:script/language.lua:137]: VSC language: nil
-[17:09:26.101][info] [#0:script/language.lua:138]: LS  language: en-us
-[17:09:26.101][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
-[17:09:26.101][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/log/file_home_gabriel-delabenetta_.config_nvim_lua_plugins.log
-[17:09:26.101][info] [#0:script/workspace/workspace.lua:48]: Workspace create: 	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
-[17:09:26.407][warn] [#0:script/config/loader.lua:116]: No config?	{}
-[17:09:26.407][info] [#0:script/provider/provider.lua:56]: Load config from .luarc.json/.luarc.jsonc	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
-[17:09:26.407][info] [#0:script/provider/provider.lua:57]: {
+[15:21:03.572][info] [#0:script/language.lua:137]: VSC language: nil
+[15:21:03.572][info] [#0:script/language.lua:138]: LS  language: en-us
+[15:21:03.572][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
+[15:21:03.572][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/log/file_home_gabriel-delabenetta_.config_nvim_lua_plugins.log
+[15:21:03.573][info] [#0:script/workspace/workspace.lua:48]: Workspace create: 	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
+[15:21:03.878][warn] [#0:script/config/loader.lua:116]: No config?	{}
+[15:21:03.878][info] [#0:script/provider/provider.lua:56]: Load config from .luarc.json/.luarc.jsonc	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
+[15:21:03.878][info] [#0:script/provider/provider.lua:57]: {
   ["diagnostics.globals"] = { "vim" }
 }
-[17:09:26.508][warn] [#0:script/config/loader.lua:116]: No config?	{}
-[17:09:26.508][info] [#0:script/provider/provider.lua:65]: Load config from client	fallback
-[17:09:26.508][info] [#0:script/provider/provider.lua:66]: nil
-[17:09:26.637][info] [#0:script/library.lua:212]: Init builtin library at:	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
-[17:09:26.677][info] [#0:script/library.lua:212]: Init builtin library at:	nil
-[17:09:26.794][info] [#0:script/workspace/workspace.lua:324]: Preload start:	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
-[17:09:26.799][info] [#0:script/workspace/workspace.lua:330]: Scan files at:	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
-[17:09:26.800][info] [#0:script/workspace/workspace.lua:324]: Preload start:	<fallback>
-[17:09:26.812][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/os.lua
-[17:09:26.813][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/builtin.lua
-[17:09:26.813][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/string.lua
-[17:09:26.814][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/table.lua
-[17:09:26.814][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/math.lua
-[17:09:26.815][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/package.lua
-[17:09:26.815][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/utf8.lua
-[17:09:26.815][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/os.lua
-[17:09:26.816][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/basic.lua
-[17:09:26.817][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/builtin.lua
-[17:09:26.817][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
-[17:09:26.817][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/string.lua
-[17:09:26.817][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/debug.lua
-[17:09:26.818][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/table.lua
-[17:09:26.818][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/io.lua
-[17:09:26.818][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/math.lua
-[17:09:26.819][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/package.lua
-[17:09:26.819][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/utf8.lua
-[17:09:26.819][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/basic.lua
-[17:09:26.819][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
-[17:09:26.820][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/debug.lua
-[17:09:26.820][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/io.lua
-[17:09:26.921][info] [#0:script/workspace/workspace.lua:379]: Found 11 files at:	<fallback>
-[17:09:26.921][info] [#0:script/workspace/loading.lua:160]: Load files from disk:	<fallback>
-[17:09:26.921][info] [#0:script/workspace/workspace.lua:379]: Found 17 files at:	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
-[17:09:26.921][info] [#0:script/workspace/loading.lua:160]: Load files from disk:	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
-[17:09:26.924][info] [#0:script/workspace/loading.lua:88]: Skip loaded file: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/neotree.lua
-[17:09:27.025][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/io.lua , size = 6.364 KB
-[17:09:27.040][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/io.lua
-[17:09:27.040][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/io.lua
-[17:09:27.040][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/debug.lua , size = 7.637 KB
-[17:09:27.057][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/debug.lua
-[17:09:27.057][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/debug.lua
-[17:09:27.057][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/coroutine.lua , size = 2.590 KB
-[17:09:27.061][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
-[17:09:27.061][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
-[17:09:27.061][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/basic.lua , size = 15.841 KB
-[17:09:27.084][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/basic.lua
-[17:09:27.084][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/basic.lua
-[17:09:27.084][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/utf8.lua , size = 2.386 KB
-[17:09:27.087][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/utf8.lua
-[17:09:27.087][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/utf8.lua
-[17:09:27.087][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/package.lua , size = 2.944 KB
-[17:09:27.090][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/package.lua
-[17:09:27.090][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/package.lua
-[17:09:27.090][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/math.lua , size = 8.542 KB
-[17:09:27.099][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/math.lua
-[17:09:27.099][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/math.lua
-[17:09:27.099][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/table.lua , size = 4.445 KB
-[17:09:27.105][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/table.lua
-[17:09:27.105][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/table.lua
-[17:09:27.106][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/string.lua , size = 5.260 KB
-[17:09:27.113][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/string.lua
-[17:09:27.113][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/string.lua
-[17:09:27.113][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/builtin.lua , size = 0.302 KB
-[17:09:27.114][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/builtin.lua
-[17:09:27.114][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/builtin.lua
-[17:09:27.114][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/os.lua , size = 5.611 KB
-[17:09:27.128][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/os.lua
-[17:09:27.128][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/os.lua
-[17:09:27.128][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/catppuccin.lua , size = 0.236 KB
-[17:09:27.129][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/lualine.lua , size = 0.302 KB
-[17:09:27.129][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/treesitter.lua , size = 0.358 KB
-[17:09:27.130][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/telescope.lua , size = 0.735 KB
-[17:09:27.131][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/lsp.lua , size = 1.007 KB
-[17:09:27.233][info] [#0:script/workspace/loading.lua:172]: Loaded files takes [0.119] sec: <fallback>
-[17:09:27.233][info] [#0:script/workspace/loading.lua:181]: Compile files takes [0.000] sec: <fallback>
-[17:09:27.233][info] [#0:script/workspace/loading.lua:182]: Loaded finish:	<fallback>
-[17:09:27.233][info] [#0:script/workspace/workspace.lua:381]: Preload finish at:	<fallback>
-[17:09:27.241][info] [#0:script/workspace/loading.lua:172]: Loaded files takes [0.127] sec: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
-[17:09:27.241][info] [#0:script/workspace/loading.lua:181]: Compile files takes [0.000] sec: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
-[17:09:27.241][info] [#0:script/workspace/loading.lua:182]: Loaded finish:	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
-[17:09:27.241][info] [#0:script/workspace/workspace.lua:381]: Preload finish at:	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
-[17:09:27.251][info] [#0:script/provider/diagnostic.lua:560]: Diagnostics scope [file:///home/gabriel-delabenetta/.config/nvim/lua/plugins], files count:[17]
-[17:09:27.328][info] [#0:script/provider/diagnostic.lua:577]: Diagnostics scope [file:///home/gabriel-delabenetta/.config/nvim/lua/plugins] finished, takes [0.042] sec.
-[17:09:58.202][info] [#0:script/provider/provider.lua:176]: Server shutdown.
-[17:09:58.302][warn] [#0:script/pub/report.lua:24]: Load proto error:	Disconnected!
+[15:21:03.978][warn] [#0:script/config/loader.lua:116]: No config?	{}
+[15:21:03.979][info] [#0:script/provider/provider.lua:65]: Load config from client	fallback
+[15:21:03.979][info] [#0:script/provider/provider.lua:66]: nil
+[15:21:04.103][info] [#0:script/library.lua:212]: Init builtin library at:	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
+[15:21:04.143][info] [#0:script/library.lua:212]: Init builtin library at:	nil
+[15:21:04.260][info] [#0:script/workspace/workspace.lua:324]: Preload start:	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
+[15:21:04.264][info] [#0:script/workspace/workspace.lua:330]: Scan files at:	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
+[15:21:04.265][info] [#0:script/workspace/workspace.lua:324]: Preload start:	<fallback>
+[15:21:04.273][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/os.lua
+[15:21:04.273][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/builtin.lua
+[15:21:04.274][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/string.lua
+[15:21:04.274][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/table.lua
+[15:21:04.274][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/math.lua
+[15:21:04.275][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/package.lua
+[15:21:04.275][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/utf8.lua
+[15:21:04.275][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/os.lua
+[15:21:04.275][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/basic.lua
+[15:21:04.276][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/builtin.lua
+[15:21:04.276][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
+[15:21:04.277][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/string.lua
+[15:21:04.277][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/debug.lua
+[15:21:04.277][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/table.lua
+[15:21:04.277][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/io.lua
+[15:21:04.278][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/math.lua
+[15:21:04.278][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/package.lua
+[15:21:04.278][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/utf8.lua
+[15:21:04.278][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/basic.lua
+[15:21:04.279][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
+[15:21:04.279][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/debug.lua
+[15:21:04.279][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/io.lua
+[15:21:04.380][info] [#0:script/workspace/workspace.lua:379]: Found 11 files at:	<fallback>
+[15:21:04.380][info] [#0:script/workspace/loading.lua:160]: Load files from disk:	<fallback>
+[15:21:04.380][info] [#0:script/workspace/workspace.lua:379]: Found 17 files at:	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
+[15:21:04.380][info] [#0:script/workspace/loading.lua:160]: Load files from disk:	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
+[15:21:04.382][info] [#0:script/workspace/loading.lua:88]: Skip loaded file: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/lsp.lua
+[15:21:04.483][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/io.lua , size = 6.364 KB
+[15:21:04.495][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/io.lua
+[15:21:04.496][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/io.lua
+[15:21:04.496][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/debug.lua , size = 7.637 KB
+[15:21:04.509][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/debug.lua
+[15:21:04.509][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/debug.lua
+[15:21:04.509][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/coroutine.lua , size = 2.590 KB
+[15:21:04.512][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
+[15:21:04.513][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
+[15:21:04.513][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/basic.lua , size = 15.841 KB
+[15:21:04.533][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/basic.lua
+[15:21:04.533][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/basic.lua
+[15:21:04.533][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/utf8.lua , size = 2.386 KB
+[15:21:04.536][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/utf8.lua
+[15:21:04.536][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/utf8.lua
+[15:21:04.536][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/package.lua , size = 2.944 KB
+[15:21:04.538][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/package.lua
+[15:21:04.538][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/package.lua
+[15:21:04.538][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/math.lua , size = 8.542 KB
+[15:21:04.548][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/math.lua
+[15:21:04.548][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/math.lua
+[15:21:04.548][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/table.lua , size = 4.445 KB
+[15:21:04.554][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/table.lua
+[15:21:04.554][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/table.lua
+[15:21:04.554][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/string.lua , size = 5.260 KB
+[15:21:04.561][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/string.lua
+[15:21:04.561][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/string.lua
+[15:21:04.561][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/builtin.lua , size = 0.302 KB
+[15:21:04.562][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/builtin.lua
+[15:21:04.562][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/builtin.lua
+[15:21:04.562][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/os.lua , size = 5.611 KB
+[15:21:04.575][info] [#0:script/workspace/loading.lua:112]: ++++As library of:	file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/os.lua
+[15:21:04.575][info] [#0:script/workspace/loading.lua:97]: Skip loaded file: file:///home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/os.lua
+[15:21:04.575][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/lualine.lua , size = 0.302 KB
+[15:21:04.576][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/catppuccin.lua , size = 0.271 KB
+[15:21:04.577][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/treesitter.lua , size = 0.366 KB
+[15:21:04.577][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/telescope.lua , size = 0.743 KB
+[15:21:04.578][info] [#0:script/workspace/loading.lua:100]: Preload file at: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/neotree.lua , size = 0.675 KB
+[15:21:04.680][info] [#0:script/workspace/loading.lua:172]: Loaded files takes [0.105] sec: <fallback>
+[15:21:04.680][info] [#0:script/workspace/loading.lua:181]: Compile files takes [0.000] sec: <fallback>
+[15:21:04.680][info] [#0:script/workspace/loading.lua:182]: Loaded finish:	<fallback>
+[15:21:04.680][info] [#0:script/workspace/workspace.lua:381]: Preload finish at:	<fallback>
+[15:21:04.686][info] [#0:script/workspace/loading.lua:172]: Loaded files takes [0.111] sec: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
+[15:21:04.686][info] [#0:script/workspace/loading.lua:181]: Compile files takes [0.000] sec: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
+[15:21:04.686][info] [#0:script/workspace/loading.lua:182]: Loaded finish:	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
+[15:21:04.686][info] [#0:script/workspace/workspace.lua:381]: Preload finish at:	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
+[15:21:04.696][info] [#0:script/provider/diagnostic.lua:560]: Diagnostics scope [file:///home/gabriel-delabenetta/.config/nvim/lua/plugins], files count:[17]
+[15:21:04.795][info] [#0:script/provider/diagnostic.lua:577]: Diagnostics scope [file:///home/gabriel-delabenetta/.config/nvim/lua/plugins] finished, takes [0.056] sec.
+[15:24:52.531][info] [#0:script/workspace/workspace.lua:284]: Scan files at:	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/lsp.lua
+[15:24:52.531][info] [#0:script/workspace/loading.lua:160]: Load files from disk:	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/lsp.lua
+[15:24:52.532][info] [#0:script/workspace/loading.lua:88]: Skip loaded file: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/lsp.lua
+[15:24:52.532][info] [#0:script/workspace/loading.lua:172]: Loaded files takes [0.000] sec: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/lsp.lua
+[15:24:52.532][info] [#0:script/workspace/loading.lua:181]: Compile files takes [0.000] sec: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/lsp.lua
+[15:24:52.532][info] [#0:script/workspace/loading.lua:182]: Loaded finish:	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/lsp.lua
+[15:24:56.529][info] [#0:script/provider/diagnostic.lua:560]: Diagnostics scope [file:///home/gabriel-delabenetta/.config/nvim/lua/plugins], files count:[17]
+[15:24:56.621][info] [#0:script/provider/diagnostic.lua:577]: Diagnostics scope [file:///home/gabriel-delabenetta/.config/nvim/lua/plugins] finished, takes [0.049] sec.
+[15:25:16.583][info] [#0:script/workspace/workspace.lua:284]: Scan files at:	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/lsp.lua
+[15:25:16.584][info] [#0:script/workspace/loading.lua:160]: Load files from disk:	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/lsp.lua
+[15:25:16.584][info] [#0:script/workspace/loading.lua:88]: Skip loaded file: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/lsp.lua
+[15:25:16.584][info] [#0:script/workspace/loading.lua:172]: Loaded files takes [0.000] sec: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/lsp.lua
+[15:25:16.584][info] [#0:script/workspace/loading.lua:181]: Compile files takes [0.000] sec: file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/lsp.lua
+[15:25:16.584][info] [#0:script/workspace/loading.lua:182]: Loaded finish:	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins/lsp.lua
+[15:25:16.986][warn] [#0:script/pub/report.lua:24]: Load proto error:	Disconnected!

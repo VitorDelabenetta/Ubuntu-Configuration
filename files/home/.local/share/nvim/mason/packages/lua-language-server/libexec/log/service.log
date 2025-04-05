@@ -1,10 +1,10 @@
-[17:09:25.932][info] [#0:/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:68]: Lua Lsp startup, root: 	/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec
-[17:09:25.932][info] [#0:/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:69]: ROOT:	/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec
-[17:09:25.932][info] [#0:/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:70]: LOGPATH:	/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/log
-[17:09:25.932][info] [#0:/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:71]: METAPATH:	/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta
-[17:09:25.933][info] [#0:/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:72]: VERSION:	3.13.9
-[17:09:25.991][info] [#0:script/proto/proto.lua:260]: Listen Mode: stdio
-[17:09:25.991][info] [#0:script/service/service.lua:145]: 
+[19:03:33.838][info] [#0:/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:68]: Lua Lsp startup, root: 	/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec
+[19:03:33.839][info] [#0:/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:69]: ROOT:	/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec
+[19:03:33.839][info] [#0:/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:70]: LOGPATH:	/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/log
+[19:03:33.839][info] [#0:/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:71]: METAPATH:	/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/meta
+[19:03:33.839][info] [#0:/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:72]: VERSION:	3.13.9
+[19:03:33.894][info] [#0:script/proto/proto.lua:260]: Listen Mode: stdio
+[19:03:33.894][info] [#0:script/service/service.lua:145]: 
 ========= Medical Examination Report =========
     --------------- Memory ---------------
         Total: 2.259 MB
@@ -26,7 +26,7 @@
         Holdon:   0
         Waiting:  0
 ==============================================
-[17:09:26.100][info] [#0:script/client.lua:657]: Client init	{
+[19:03:34.003][info] [#0:script/client.lua:657]: Client init	{
   capabilities = {
     textDocument = {
       callHierarchy = {
@@ -170,16 +170,16 @@
     version = "0.9.5"
   },
   initializationOptions = {},
-  processId = 21867,
-  rootPath = "/home/gabriel-delabenetta/.config/nvim/lua/plugins",
-  rootUri = "file:///home/gabriel-delabenetta/.config/nvim/lua/plugins",
+  processId = 11920,
+  rootPath = "/home/gabriel-delabenetta/.config/nvim",
+  rootUri = "file:///home/gabriel-delabenetta/.config/nvim",
   trace = "off",
   workspaceFolders = { {
-      name = "/home/gabriel-delabenetta/.config/nvim/lua/plugins",
-      uri = "file:///home/gabriel-delabenetta/.config/nvim/lua/plugins"
+      name = "/home/gabriel-delabenetta/.config/nvim",
+      uri = "file:///home/gabriel-delabenetta/.config/nvim"
     } }
 }
-[17:09:26.101][info] [#0:script/language.lua:137]: VSC language: nil
-[17:09:26.101][info] [#0:script/language.lua:138]: LS  language: en-us
-[17:09:26.101][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/gabriel-delabenetta/.config/nvim/lua/plugins
-[17:09:26.101][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/log/file_home_gabriel-delabenetta_.config_nvim_lua_plugins.log
+[19:03:34.004][info] [#0:script/language.lua:137]: VSC language: nil
+[19:03:34.004][info] [#0:script/language.lua:138]: LS  language: en-us
+[19:03:34.004][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/gabriel-delabenetta/.config/nvim
+[19:03:34.004][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/gabriel-delabenetta/.local/share/nvim/mason/packages/lua-language-server/libexec/log/file_home_gabriel-delabenetta_.config_nvim.log

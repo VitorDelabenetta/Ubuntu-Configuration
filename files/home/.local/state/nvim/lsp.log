@@ -1,0 +1,4 @@
+[START][2025-04-05 12:36:37] LSP logging initiated
+[ERROR][2025-04-05 12:36:37] .../vim/lsp/rpc.lua:734	"rpc"	"/home/gabriel-delabenetta/.local/share/nvim/mason/bin/lua-language-server"	"stderr"	"NMD, WSM `endLine > #rows` ?\nstack traceback:\n\tscript/text-merger.lua:71: in upvalue 'mergeRows'\n\tscript/text-merger.lua:105: in function 'text-merger'\n\tscript/provider/provider.lua:314: in function <script/provider/provider.lua:301>\n\t[C]: in function 'xpcall'\n\tscript/proto/proto.lua:202: in function <script/proto/proto.lua:177>\n"
+[START][2025-04-05 15:15:26] LSP logging initiated
+[WARN][2025-04-05 15:15:26] .../lua/vim/lsp.lua:101	"method textDocument/declaration is not supported by any of the servers registered for the current buffer"

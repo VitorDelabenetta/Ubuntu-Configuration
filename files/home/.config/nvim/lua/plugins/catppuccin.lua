@@ -6,6 +6,6 @@ return {
 
   config = function()
     vim.cmd.colorscheme "catppuccin-macchiato"
-    -- pode-se usar mocha, frappe, latte ou simplesmente "catppuccin"
+    -- pode-se usar: catppuccin-latte, catppuccin-frappe, catppuccin-macchiato (melhor), catppuccin-mocha
   end
 }
